@@ -15,9 +15,9 @@ echo "Instalado Unzip!"
 
 echo "Baixando e copiando os arquivos da aplicação..."
 cd /tmp
-wget <LINK DO REPOSITORIO GIT DO PROJETO>
-unzip <ARQUIVO.zip>
-cd <NOME DO DIRETORIO>
+wget https://github.com/Luanftg/test-web-build/blob/main/build-web.zip
+unzip build-web.zip
+cd build-web
 cp -R * /var/www/html/
 echo "Arquivos copiados!"
 echo "Script Finalizado."
