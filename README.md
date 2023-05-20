@@ -1,2 +1,2 @@
-# linux-project1-iac
+# scripts-linux-iac
 Repositório para arquivos de script.
